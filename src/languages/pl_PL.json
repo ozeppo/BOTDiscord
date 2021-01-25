@@ -1,0 +1,56 @@
+{
+    "commands": {
+        
+        "sampleCommand": {
+
+            "response": "Ping!"
+
+        },
+
+        "covid": {
+            "box_name": "🦠 Statystyki COVID-19",
+            "day_stats": "Statystyki na dzień ",
+            "country_field": "Kraj",
+            "active_field": "Aktywne",
+            "confirmed_field": "Potwierdzone",
+            "deaths_field": "Śmierci",
+            "recovered_field": "Odzyskane"
+        },
+
+        "wallet": {
+            "user_wallet": "Twój portfel",
+            "pinged_wallet": "Portfel użytkownika"
+        },
+
+        "ban": {
+            "permissionDeny": "Nieposiadasz odpowiednich uprawnień.",
+            "needUser": "Musisz podać użytkownika którego chcesz zbanować!",
+            "cantFindUser": "Wystąpił błąd. Niemogę znaleźć takiego użytkownika.",
+            "bannedInfo": "Zostałeś zbanowany na **${guildName}** za `` ${reason}``",
+            "defaultReason": "Niepodano powodu ",
+            "succes": "Pomyślnie Zbanowano Użytkownika!"
+        },
+
+        "kick": {
+            "permissionDeny": "Nieposiadasz odpowiednich uprawnień.",
+            "needUser": "Musisz podać użytkownika którego chcesz wyrzucić!",
+            "cantFindUser": "Wystąpił błąd. Niemogę znaleźć takiego użytkownika.",
+            "kickedInfo": "Zostałeś wyrzucony z **{guildName}** za `` {reason}``",
+            "defaultReason": "Niepodano powodu ",
+            "succes": "Pomyślnie Wyrzucono Użytkownika!"
+        },
+
+        "profile": {
+
+        },
+
+        "daily": {
+
+        },
+
+        "pool": {
+
+        }
+
+    }
+}

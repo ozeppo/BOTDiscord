@@ -1,0 +1,250 @@
+{
+  "guilds": [
+    {
+      "guildName": "NEST BOT | Development Server",
+      "guildID": "572398678988292103",
+      "config": {
+        "prefix": "$",
+        "language": "pl_PL",
+        "autoRoles": [
+          "768945625508085771"
+        ],
+        "modRoles": [
+          "768948720867344419"
+        ],
+        "welcomeMessage": "Welcome on NestBot support server."
+      }
+    },
+    {
+      "guildName": "Lodosławice",
+      "guildID": "405812289451589633",
+      "config": {
+        "prefix": ".",
+        "language": "pl_PL",
+        "autoRoles": [],
+        "modRoles": [
+          "405817265083252736"
+        ],
+        "welcomeMessage": ""
+      }
+    },
+    {
+      "guildName": "Prezentacja Bota",
+      "guildID": "801843580636758016",
+      "config": {
+        "prefix": "$",
+        "language": "pl_PL",
+        "autoRoles": [
+          "801858913778663493"
+        ],
+        "modRoles": [
+          "801858990853980190"
+        ],
+        "welcomeMessage": "Witaj na serwerze prezentacyjnym!"
+      }
+    }
+  ],
+  "users": [
+    {
+      "userID": "327860794135937024",
+      "preferences": {
+        "description": "Ziobro ty kurwo jebana",
+        "birthday": "14.12",
+        "marriage": "Single",
+        "reputation": 1337,
+        "gender": "Non-Binary"
+      },
+      "inventory": [
+        "<:developer:776091328614367283> Developer"
+      ],
+      "money": 43200,
+      "exp": 189,
+      "level": 4,
+      "config": {
+        "lastDailyDate": 1611164025338
+      }
+    },
+    {
+      "userID": "327860221236215809",
+      "preferences": {
+        "description": "You can set this on our website",
+        "birthday": "06.11",
+        "marriage": "Single",
+        "reputation": 0,
+        "gender": "Not set"
+      },
+      "inventory": [],
+      "money": 2700,
+      "exp": 0,
+      "level": 1,
+      "config": {
+        "lastDailyDate": 1610216540723
+      }
+    },
+    {
+      "userID": "760917076138655814",
+      "preferences": {
+        "description": "You can set this on our website",
+        "birthday": "Not set",
+        "marriage": "Single",
+        "reputation": 0,
+        "gender": "Not set"
+      },
+      "inventory": [],
+      "money": 2700,
+      "exp": 0,
+      "level": 1,
+      "config": {
+        "lastDailyDate": 1610215824370
+      }
+    },
+    {
+      "userID": "348058837187821570",
+      "preferences": {
+        "description": "You can set this on our website",
+        "birthday": "Not set",
+        "marriage": "Single",
+        "reputation": 0,
+        "gender": "Not set"
+      },
+      "inventory": [],
+      "money": 0,
+      "exp": 37,
+      "level": 1,
+      "config": {
+        "lastDailyDate": ""
+      }
+    },
+    {
+      "userID": "610167168809828382",
+      "preferences": {
+        "description": "You can set this on our website",
+        "birthday": "Not set",
+        "marriage": "Single",
+        "reputation": 0,
+        "gender": "Not set"
+      },
+      "inventory": [],
+      "money": 2700,
+      "exp": 0,
+      "level": 1,
+      "config": {
+        "lastDailyDate": 1610222126902
+      }
+    },
+    {
+      "userID": "468799020048056321",
+      "preferences": {
+        "description": "You can set this on our website",
+        "birthday": "Not set",
+        "marriage": "Single",
+        "reputation": 0,
+        "gender": "Not set"
+      },
+      "inventory": [],
+      "money": 2700,
+      "exp": 164,
+      "level": 1,
+      "config": {
+        "lastDailyDate": 1610396770110
+      }
+    },
+    {
+      "userID": "750451855204810812",
+      "preferences": {
+        "description": "You can set this on our website",
+        "birthday": "Not set",
+        "marriage": "Single",
+        "reputation": 0,
+        "gender": "Not set"
+      },
+      "inventory": [],
+      "money": 0,
+      "exp": 0,
+      "level": 1,
+      "config": {
+        "lastDailyDate": ""
+      }
+    },
+    {
+      "userID": "328577506338668555",
+      "preferences": {
+        "description": "You can set this on our website",
+        "birthday": "Not set",
+        "marriage": "Single",
+        "reputation": 0,
+        "gender": "Not set"
+      },
+      "inventory": [],
+      "money": 2700,
+      "exp": 19,
+      "level": 1,
+      "config": {
+        "lastDailyDate": 1610232075100
+      }
+    },
+    {
+      "userID": "768911791518384139",
+      "preferences": {
+        "description": "You can set this on our website",
+        "birthday": "Not set",
+        "marriage": "Single",
+        "reputation": 0,
+        "gender": "Not set"
+      },
+      "inventory": [],
+      "money": 0,
+      "exp": 0,
+      "level": {
+        "lastDailyDate": ""
+      }
+    },
+    {
+      "userID": "143777105799282688",
+      "preferences": {
+        "description": "You can set this on our website",
+        "birthday": "Not set",
+        "marriage": "Single",
+        "reputation": 0,
+        "gender": "Not set"
+      },
+      "inventory": [],
+      "money": 0,
+      "exp": 5,
+      "level": {
+        "lastDailyDate": ""
+      }
+    },
+    {
+      "userID": "706958771334938715",
+      "preferences": {
+        "description": "You can set this on our website",
+        "birthday": "Not set",
+        "marriage": "Single",
+        "reputation": 0,
+        "gender": "Not set"
+      },
+      "inventory": [],
+      "money": 0,
+      "exp": 4,
+      "level": {
+        "lastDailyDate": ""
+      }
+    }
+  ],
+  "members": [
+    {
+      "userID": "327860794135937024",
+      "warns": [
+        {
+          "guildID": "572398678988292103",
+          "reason": "Bo tak"
+        },
+        {
+          "guildID": "405812289451589633",
+          "reason": "Tak wyszło"
+        }
+      ]
+    }
+  ]
+}

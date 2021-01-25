@@ -1,0 +1,26 @@
+{
+    "commands": {
+        
+        "sampleCommand": {
+
+            "response": "Pong!"
+
+        },
+
+        "covid": {
+            "box_name": "🦠 COVID-19 Stats",
+            "day_stats": "Statistics for the day ",
+            "country_field": "Country",
+            "active_field": "Acvtive cases",
+            "confirmed_field": "Confirmed",
+            "deaths_field": "Deaths",
+            "recovered_field": "Recovered"
+        },
+
+        "wallet": {
+            "user_wallet": "Your wallet",
+            "pinged_wallet": "Wallet of user"
+        }
+
+    }
+}
